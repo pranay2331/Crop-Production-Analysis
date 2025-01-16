@@ -1,0 +1,15 @@
+Questions for Crop Production Analysis:
+
+1)What are the top three crops grown in India based on total production?
+2)Which state has the highest average yield per hectare for rice cultivation?
+3)What is the most commonly cultivated crop during the Kharif season?
+4)How has the total area under cultivation changed from 1997 to 2014?
+5)Which district has the highest production of coconut in the year 2010?
+6)What is the overall trend in the production of sugarcane in India over the years?
+7)Which state shows the highest variability in the production of wheat?
+8)Average Production per Year
+9)District with Highest Production
+10)Crop area vs production
+11)Year with Highest Production
+12)Analyze the trend of coconut production in coastal states versus non-coastal states.
+13)Investigate if there's a relationship between the area under cultivation and the production of major crops in a particular region.
